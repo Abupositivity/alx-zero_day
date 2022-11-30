@@ -1,2 +1,2 @@
 My first readme
-it awesome
+A new milestone reached in my ALX journey
